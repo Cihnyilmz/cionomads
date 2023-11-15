@@ -1,88 +1,88 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    id: "world-1",
+    imgUrl: "/planet-01.png",
+    title: "Bangkok",
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    id: "world-2",
+    imgUrl: "/planet-02.png",
+    title: "Azores",
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    id: "world-3",
+    imgUrl: "/planet-03.png",
+    title: "Canggu",
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    id: "world-4",
+    imgUrl: "/planet-04.png",
+    title: "Zagreb",
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    id: "world-5",
+    imgUrl: "/planet-05.png",
+    title: "Penang",
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  "Begin by clarifying your motivations, setting clear objectives, and considering your budget and skills.",
+  "Equip yourself and explore co-working spaces for a professional work environment.",
+  "Choose your first destination wisely, book accommodations in advance.",
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: "/headset.svg",
+    title: "Remote Work Freedom",
     subtitle:
-      'we have the latest update with new world for you to try never mind',
+      "Embrace location independence and work on your terms as a digital nomad.",
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: "/vrpano.svg",
+    title: "Global Adventures",
     subtitle:
-      'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      "Explore the world while forging meaningful connections with people and cultures as a digital nomad.",
   },
 ];
 
-export const insights = [
+export const blogs = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/blog_01.jpg",
+    title: "Remote Work Essentials: Your Guide to Digital Nomad Success",
     subtitle:
-      'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      "Dive into the essential tips, tools, and strategies that every aspiring digital nomad needs to know. Discover how to make the leap into location-independent work and embark on your nomadic journey.",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/blog_02.jpg",
+    title: "Balancing Work and Play: The Art of Digital Nomad Lifestyle",
     subtitle:
-      'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      "Explore the art of maintaining work-life balance as a digital nomad. We share insights, routines, and advice for making the most of your travel experiences while excelling in your remote job.",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/blog_03.jpg",
+    title: "Around the World: Unveiling Inspiring Nomad Stories",
     subtitle:
-      'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      "Get inspired by the real-life stories of digital nomads who've chosen to work from exotic destinations. From freelancers to entrepreneurs, we showcase their journeys, challenges, and triumphs to help you chart your own path.",
   },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: "twitter",
+    url: "/twitter.svg",
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: "linkedin",
+    url: "/linkedin.svg",
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: "instagram",
+    url: "/instagram.svg",
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: "facebook",
+    url: "/facebook.svg",
   },
 ];
